@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wCRcIugcq0pzlO2F1ZefXczi7EApPISGgjnqD29E+Vj4w0Ww5Sypzvn1a3R6nAdFIlEPxjeHT+/njlW+soTthg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\staa99\\source\\repos\\StockManagement\\StockManagement\\StockManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\staa99\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
